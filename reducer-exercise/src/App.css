@@ -1,0 +1,18 @@
+.app {
+  min-height: 100vh;
+  padding: 32px;
+  box-sizing: border-box;
+}
+
+.buttons {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+button {
+  padding: 8px 12px;
+  font: inherit;
+  cursor: pointer;
+}
